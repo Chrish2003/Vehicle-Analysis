@@ -12,9 +12,11 @@ Determine the average electric range of the electric vehicles in the dataset to 
 ##### 3. Total BEV Vehicles and % of Total BEV Vehicles:
 
 Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the dataset.
+
 Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
 
 #### 4. Total PHEV Vehicles and % of Total PHEV Vehicles:
 
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEV) in the dataset.
+
 Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
